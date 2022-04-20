@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2022/04/20/test/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>SpringMVC源码解析</title>
     <url>/2022/04/19/SpringMVC%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</url>
     <content><![CDATA[<p>本文主要是对SpringMVC源码的解析，Spring版本是5.1.x。<span id="more"></span></p>
