@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>指尖凉的Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-19T09:13:28.383Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>指尖凉</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringMVC源码解析</title>
+    <link href="http://example.com/2022/04/19/SpringMVC%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    <id>http://example.com/2022/04/19/SpringMVC%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</id>
+    <published>2022-04-19T07:50:15.950Z</published>
+    <updated>2022-04-19T09:13:28.383Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文主要是对SpringMVC源码的解析，Spring版本是5.1.x。</summary>
+    
+    
+    
+    <category term="源码解析" scheme="http://example.com/categories/%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/"/>
+    
+    
+    <category term="SpringMVC" scheme="http://example.com/tags/SpringMVC/"/>
+    
+  </entry>
+  
+</feed>
