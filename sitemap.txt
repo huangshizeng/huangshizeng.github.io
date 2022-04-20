@@ -1,0 +1,7 @@
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/2022/04/19/SpringMVC%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/
+http://example.com/
+http://example.com/tags/SpringMVC/
+http://example.com/categories/%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/
